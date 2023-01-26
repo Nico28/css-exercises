@@ -1,0 +1,20 @@
+.odd_nums{
+    background-color: pink;
+    font-style: Verdana; DejaVu Sans;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+
+}
+
+.ajust_font_size{
+    font-size: 24px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
