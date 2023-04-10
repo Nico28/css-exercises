@@ -1,0 +1,13 @@
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+  }
+  
+/*.search{
+    flex: 2;
+}*/
+
+.home, .logout {
+    flex: 1;
+}
+
